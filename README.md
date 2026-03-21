@@ -6,13 +6,13 @@
 
 ```bash
 > whoami
-backend-focused fullstack developer
+backend-focused developer
 
 > focus
-building scalable APIs, realtime systems, and production-ready apps
+building scalable systems, internal tools and realtime applications
 
-> status
-actively developing projects
+> current_status
+developing production-style projects
 ```
 
 ---
@@ -29,11 +29,26 @@ actively developing projects
 
 ---
 
+## Featured Project
+
+### virtualspace
+
+Enterprise-level CRM system for internal company operations.
+
+* department interaction and coordination
+* workflow and task management
+* role-based access control
+* internal process automation
+
+→ https://github.com/AriseWrk/virtualspace
+
+---
+
 ## Projects
 
 ### task-manager-app
 
-Fullstack application with authentication, API layer and task management
+Fullstack task management system with authentication and API architecture
 → https://github.com/AriseWrk/task-manager-app
 
 ### realtime-chat-app
@@ -53,21 +68,32 @@ Distributed system with multiple services and container orchestration
 
 ---
 
-## Architecture mindset
+## Engineering
 
-* clean architecture
-* separation of concerns
-* scalable backend design
-* async processing
-* API-first approach
+I focus on building systems, not just applications:
+
+* scalable backend architecture
+* clean project structure (services, repositories, layers)
+* API-first development
+* async and realtime systems
+* containerization with Docker
 
 ---
 
-## Current direction
+## Systems I Build
 
-* improving backend engineering skills
-* working with PostgreSQL and system design
-* learning production deployment & Docker
+* internal company tools (CRM, dashboards)
+* backend platforms and APIs
+* realtime systems (chat, notifications)
+* AI-powered services
+
+---
+
+## Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AriseWrk&show_icons=true&theme=default" />
+</p>
 
 ---
 
