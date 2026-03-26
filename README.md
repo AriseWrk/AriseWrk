@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f0c29,100:00F7FF&height=300&section=header&text=AlexArise&fontSize=60&fontColor=00F7FF&animation=twinkling&fontAlignY=40&desc=Code%20%7C%20AI%20%7C%20Systems&descAlignY=65&descSize=18"/>
+<!-- 🧬 CUSTOM NEON BANNER -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+AlexArise...;%3E+Loading+AI+Modules...;%3E+Building+Backend+Systems...;%3E+System+Ready+" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:020024,100:00F7FF&height=260&section=header&text=AlexArise&fontSize=65&fontColor=00F7FF&animation=fadeIn&desc=AI%20%7C%20Backend%20%7C%20Systems&descAlignY=70&descSize=20"/>
+
+<!-- ⚡ MATRIX TERMINAL ANIMATION -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=900&lines=%3E+booting+alexarise.system...;%3E+loading+modules...;%3E+ai.core+initialized;%3E+backend.engine+ready;%3E+welcome" />
 
 </div>
 
@@ -12,7 +16,7 @@
 
 ```bash
 > user: AlexArise
-> role: Junior Developer / AI Explorer
+> role: Developer / AI Explorer
 
 > stack:
    - Python 🐍
@@ -21,19 +25,33 @@
    - Node.js 🟢
    - Docker 🐳
 
-> focus:
+> modules:
    - AI / Neural Networks 🤖
    - Backend Systems ⚙️
-   - Scalable Architecture 🚀
+   - APIs / Architecture 🚀
 
-> status: evolving...
+> status: online
+```
+
+---
+
+## 🧬 MATRIX CORE
+
+```text
+01010100 01001000 01000101 00100000 01010011 01011001 01010011 01010100 01000101 01001101
+
+> Code flows like data
+> Systems evolve like organisms
+> Intelligence is built, not given
+
+> [ AlexArise is active ]
 ```
 
 ---
 
 <div align="center">
 
-## ⚙️ TECH VISUAL
+## ⚙️ TECH
 
 <img src="https://skillicons.dev/icons?i=python,java,ts,nodejs,docker,html,css&theme=dark" />
 
@@ -43,67 +61,37 @@
 
 <div align="center">
 
-## 📊 GITHUB CORE
-
-</div>
-
-<div align="center">
+## 📊 STATS
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexArise&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexArise&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexArise&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&title_color=00FF9C"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🔥 STREAK SYSTEM
-
-<img src="https://streak-stats.demolab.com?user=AlexArise&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-
-</div>
-
----
-
-## 🧠 NEURAL CORE
+## 🧠 NEURAL LOG
 
 ```diff
 + EN:
-+ Building systems that scale
-+ Learning AI beyond basics
-+ Turning ideas into real products
++ Building scalable backend & AI systems
++ Learning beyond basics
++ Creating real-world projects
 
 + RU:
-+ Создаю масштабируемые системы
-+ Изучаю AI глубже базового уровня
-+ Превращаю идеи в реальные продукты
-```
-
----
-
-## 🌌 SYSTEM PHILOSOPHY
-
-```text
-[ CORE LOG ]
-
-Code = Power
-Logic = Weapon
-Creativity = Advantage
-
-> Build fast
-> Break limits
-> Evolve constantly
++ Создаю backend и AI системы
++ Изучаю технологии глубже базового уровня
++ Делаю реальные проекты
 ```
 
 ---
 
 <div align="center">
 
-## 🌐 CONNECTION PROTOCOL
+## 🌐 CONNECTION
 
-<a href="#"><img src="https://img.shields.io/badge/Telegram-00F7FF?style=for-the-badge&logo=telegram&logoColor=black"/></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Telegram-00FF9C?style=for-the-badge&logo=telegram&logoColor=black"/></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 
 </div>
 
@@ -111,6 +99,6 @@ Creativity = Advantage
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0f0c29,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:020024,100:000000&height=120&section=footer"/>
 
 </div>
