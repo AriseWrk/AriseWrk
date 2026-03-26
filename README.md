@@ -24,9 +24,12 @@
 + Начинающий разработчик, создаю реальные проекты
 + Изучаю AI, backend и современные технологии
 + Пишу чистый и эффективный код
+
 <div align="center">
+
 ⚙️ ⚡ TECH STACK ⚡ ⚙️
 <img src="https://skillicons.dev/icons?i=python,java,ts,nodejs,docker,html,css&theme=dark" /> </div>
+
 <div align="center">
 🌌 ⚡ CURRENT FOCUS ⚡ 🌌
 </div>
@@ -34,7 +37,9 @@ AI:        🔥 Machine Learning / Neural Networks
 Backend:   ⚡ Node.js / APIs / Architecture
 DevOps:    🐳 Docker / Containers
 Growth:    🚀 System Design / Scaling
+
 <div align="center">
+
 📊 ⚡ GITHUB MATRIX ⚡ 📊
 </div> <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexArise&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexArise&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF"/> </div>
 <div align="center">
