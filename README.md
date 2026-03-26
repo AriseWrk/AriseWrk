@@ -91,8 +91,7 @@ if (you_read_this) {
 
 ## 🌐 CONNECT
 
-<a href="#"><img src="https://img.shields.io/badge/Telegram-00FF9C?style=for-the-badge&logo=telegram&logoColor=black"/></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-
+<a href="t.me/zxc_arise"><img src="https://img.shields.io/badge/Telegram-00FF9C?style=for-the-badge&logo=telegram&logoColor=black"/></a> 
 </div>
 
 ---
