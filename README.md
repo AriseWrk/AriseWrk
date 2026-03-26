@@ -1,34 +1,76 @@
 <div align="center">
 
-<!-- 🧬 CUSTOM SVG NEON BANNER -->
+<!-- 🧠 FULL CUSTOM SVG BANNER (REAL UNIQUE) -->
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:020024,100:00F7FF&height=260&section=header&text=AlexArise&fontSize=65&fontColor=00F7FF&animation=twinkling&desc=AI%20%7C%20Backend%20%7C%20Systems&descAlignY=70&descSize=20"/>
+<svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#00FF9C"/>
+    </linearGradient>
+
+```
+<filter id="glow">
+  <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+  <feMerge>
+    <feMergeNode in="coloredBlur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+```
+
+  </defs>
+
+  <rect width="100%" height="100%" fill="#050510"/>
+
+  <text x="50%" y="50%" text-anchor="middle" fill="url(#neon)" font-size="60" font-family="monospace" filter="url(#glow)">
+    AlexArise
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="50%" y="70%" text-anchor="middle" fill="#00FF9C" font-size="18" font-family="monospace">
+    AI • Backend • Systems
+  </text>
+</svg>
 
 </div>
 
 ---
 
-<!-- 🌧 MATRIX RAIN SVG -->
+<!-- 🌧 REAL MATRIX RAIN (IMPROVED SVG) -->
 
 <div align="center">
 
-<svg width="100%" height="180">
+<svg width="100%" height="180" viewBox="0 0 1000 180">
   <style>
-    .matrix {
-      fill: #00FF9C;
-      font-family: monospace;
-      font-size: 14px;
-      opacity: 0.8;
-      animation: rain 2s linear infinite;
-    }
-    @keyframes rain {
-      0% { transform: translateY(-100%); opacity: 0; }
-      50% { opacity: 1; }
-      100% { transform: translateY(100%); opacity: 0; }
-    }
+    .drop { fill:#00FF9C; font-family:monospace; font-size:14px; }
   </style>
 
-<text x="5%" y="20" class="matrix">010101010101</text> <text x="15%" y="40" class="matrix">101010101010</text> <text x="30%" y="60" class="matrix">110011001100</text> <text x="50%" y="80" class="matrix">001100110011</text> <text x="70%" y="100" class="matrix">111000111000</text> <text x="85%" y="120" class="matrix">000111000111</text> </svg>
+  <text x="5%" y="0" class="drop">
+    101010101
+    <animate attributeName="y" from="-20" to="200" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="20%" y="0" class="drop">
+    010101010
+    <animate attributeName="y" from="-40" to="200" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="40%" y="0" class="drop">
+    11001100
+    <animate attributeName="y" from="-60" to="200" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="65%" y="0" class="drop">
+    00110011
+    <animate attributeName="y" from="-80" to="200" dur="2.2s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="85%" y="0" class="drop">
+    111000111
+    <animate attributeName="y" from="-30" to="200" dur="2.8s" repeatCount="indefinite"/>
+  </text>
+</svg>
 
 </div>
 
@@ -38,64 +80,64 @@
 
 <!-- ⚡ TERMINAL BOOT -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1800&pause=400&color=00FF9C&center=true&vCenter=true&width=850&lines=%3E+booting+alexarise...;%3E+loading+ai.core;%3E+backend.engine+online;%3E+system+ready" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1600&pause=300&color=00FF9C&center=true&vCenter=true&width=850&lines=%3E+boot+alexarise;%3E+init+ai.core;%3E+run+backend.engine;%3E+system+online" />
 
 </div>
 
 ---
 
-## 🖥️ SYSTEM TERMINAL
+## 🖥️ SYSTEM CORE
 
-```bash id="ult1"
+```bash id="mpp1"
 > user: AlexArise
-> role: Developer / AI Explorer
+> class: Developer / AI Explorer
 
 > stack:
-   Python 🐍 | Java ☕ | TypeScript 🟦
-   Node.js 🟢 | Docker 🐳
+   Python | Java | TypeScript
+   Node.js | Docker
 
-> systems:
-   AI 🤖 | Backend ⚙️ | APIs 🚀
+> focus:
+   AI / Backend / Systems
 
 > status: ONLINE
 ```
 
 ---
 
-## 🧠 INTERACTIVE CORE (click 👇)
+## 🧠 INTERACTIVE MODULES
 
 <details>
-<summary>⚡ About Me / Обо мне</summary>
+<summary>⚡ identity.log</summary>
 
-```diff id="ult2"
+```diff id="mpp2"
 + EN:
-+ Building scalable backend & AI systems
-+ Learning beyond basics
-+ Creating real-world projects
++ building scalable systems
++ learning AI deeply
++ shipping real products
 
 + RU:
-+ Создаю backend и AI системы
-+ Изучаю технологии глубже базового уровня
-+ Делаю реальные проекты
++ создаю масштабируемые системы
++ изучаю AI глубоко
++ делаю реальные проекты
 ```
 
 </details>
 
 <details>
-<summary>🧬 Philosophy</summary>
+<summary>🧬 philosophy.sys</summary>
 
-```text id="ult3"
+```text id="mpp3"
 Code = Power
-Logic = Weapon
-Creativity = Advantage
+Systems = Evolution
+Mindset = Weapon
 
-> evolve or disappear
+> adapt or disappear
 ```
 
 </details>
 
 <details>
-<summary>⚙️ Tech Details</summary>
+<summary>⚙️ tech.visual</summary>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,ts,nodejs,docker,html,css&theme=dark" />
@@ -103,11 +145,22 @@ Creativity = Advantage
 
 </details>
 
+<details>
+<summary>🧩 hidden.node (secret)</summary>
+
+```text id="mpp4"
+if (you_read_this) {
+   you_are_the_type_of_dev;
+}
+```
+
+</details>
+
 ---
 
 <div align="center">
 
-## 🌐 CONNECTION
+## 🌐 CONNECT
 
 <a href="#"><img src="https://img.shields.io/badge/Telegram-00FF9C?style=for-the-badge&logo=telegram&logoColor=black"/></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 
@@ -117,8 +170,18 @@ Creativity = Advantage
 
 <div align="center">
 
-<!-- 🔥 GLOW FOOTER -->
+<!-- 🔥 FOOTER GLOW -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:020024,100:000000&height=120&section=footer"/>
+<svg width="100%" height="100">
+  <defs>
+    <linearGradient id="g" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100" fill="url(#g)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
 
 </div>
