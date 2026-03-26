@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- 🧠 FULL CUSTOM SVG BANNER (REAL UNIQUE) -->
+<!-- 🧠 AI HUD BANNER -->
 
-<svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="280" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="neonX" x1="0%" x2="100%">
       <stop offset="0%" stop-color="#00F7FF"/>
       <stop offset="100%" stop-color="#00FF9C"/>
     </linearGradient>
 
 ```
-<filter id="glow">
-  <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+<filter id="glowX">
+  <feGaussianBlur stdDeviation="6" result="b"/>
   <feMerge>
-    <feMergeNode in="coloredBlur"/>
+    <feMergeNode in="b"/>
     <feMergeNode in="SourceGraphic"/>
   </feMerge>
 </filter>
@@ -21,54 +21,78 @@
 
   </defs>
 
-  <rect width="100%" height="100%" fill="#050510"/>
+  <rect width="100%" height="100%" fill="#04040a"/>
 
-  <text x="50%" y="50%" text-anchor="middle" fill="url(#neon)" font-size="60" font-family="monospace" filter="url(#glow)">
-    AlexArise
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
-  </text>
+  <!-- animated frame -->
 
-  <text x="50%" y="70%" text-anchor="middle" fill="#00FF9C" font-size="18" font-family="monospace">
-    AI • Backend • Systems
-  </text>
+  <rect x="10" y="10" width="980" height="260" fill="none" stroke="url(#neonX)" stroke-width="1.5" opacity="0.6">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- main name -->
+
+<text x="50%" y="50%" text-anchor="middle"
+     fill="url(#neonX)" font-size="58"
+     font-family="monospace"
+     filter="url(#glowX)">
+AlexArise <animate attributeName="letter-spacing" values="2;6;2" dur="4s" repeatCount="indefinite"/> </text>
+
+  <!-- subtitle -->
+
+<text x="50%" y="68%" text-anchor="middle"
+     fill="#00FF9C" font-size="18"
+     font-family="monospace">
+AI CORE • BACKEND • SYSTEMS </text>
+
+  <!-- scanning line -->
+
+  <rect x="0" y="0" width="1000" height="2" fill="#00F7FF">
+    <animate attributeName="y" values="0;280;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
 </svg>
 
 </div>
 
 ---
 
-<!-- 🌧 REAL MATRIX RAIN (IMPROVED SVG) -->
+<!-- 🌧 MATRIX RAIN PRO -->
 
 <div align="center">
 
-<svg width="100%" height="180" viewBox="0 0 1000 180">
+<svg width="100%" height="200" viewBox="0 0 1000 200">
   <style>
-    .drop { fill:#00FF9C; font-family:monospace; font-size:14px; }
+    .m { fill:#00FF9C; font-family:monospace; font-size:14px; opacity:0.8; }
   </style>
 
-  <text x="5%" y="0" class="drop">
-    101010101
-    <animate attributeName="y" from="-20" to="200" dur="2s" repeatCount="indefinite"/>
+  <text x="5%" class="m">
+    10101100101
+    <animate attributeName="y" values="-20;220" dur="2.2s" repeatCount="indefinite"/>
   </text>
 
-  <text x="20%" y="0" class="drop">
-    010101010
-    <animate attributeName="y" from="-40" to="200" dur="2.5s" repeatCount="indefinite"/>
+  <text x="20%" class="m">
+    01011010110
+    <animate attributeName="y" values="-50;220" dur="2.6s" repeatCount="indefinite"/>
   </text>
 
-  <text x="40%" y="0" class="drop">
-    11001100
-    <animate attributeName="y" from="-60" to="200" dur="3s" repeatCount="indefinite"/>
+  <text x="35%" class="m">
+    11001010101
+    <animate attributeName="y" values="-80;220" dur="3s" repeatCount="indefinite"/>
   </text>
 
-  <text x="65%" y="0" class="drop">
-    00110011
-    <animate attributeName="y" from="-80" to="200" dur="2.2s" repeatCount="indefinite"/>
+  <text x="55%" class="m">
+    00110101010
+    <animate attributeName="y" values="-30;220" dur="2.4s" repeatCount="indefinite"/>
   </text>
 
-  <text x="85%" y="0" class="drop">
-    111000111
-    <animate attributeName="y" from="-30" to="200" dur="2.8s" repeatCount="indefinite"/>
+  <text x="75%" class="m">
+    11100011100
+    <animate attributeName="y" values="-70;220" dur="2.8s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="90%" class="m">
+    00011100011
+    <animate attributeName="y" values="-40;220" dur="2.5s" repeatCount="indefinite"/>
   </text>
 </svg>
 
@@ -78,66 +102,67 @@
 
 <div align="center">
 
-<!-- ⚡ TERMINAL BOOT -->
+<!-- ⚡ TERMINAL BOOT SEQUENCE -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1600&pause=300&color=00FF9C&center=true&vCenter=true&width=850&lines=%3E+boot+alexarise;%3E+init+ai.core;%3E+run+backend.engine;%3E+system+online" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1400&pause=200&color=00FF9C&center=true&vCenter=true&width=900&lines=%3E+boot+sequence+init;%3E+loading+ai.core;%3E+connecting+neural+systems;%3E+backend+engine+online;%3E+welcome+alexarise" />
 
 </div>
 
 ---
 
-## 🖥️ SYSTEM CORE
+## 🖥️ SYSTEM DASHBOARD
 
-```bash id="mpp1"
+```bash id="boss1"
 > user: AlexArise
-> class: Developer / AI Explorer
+> role: AI / Backend Developer
 
-> stack:
-   Python | Java | TypeScript
-   Node.js | Docker
+> modules_loaded:
+   ai.core        ✔
+   backend.engine ✔
+   api.layer      ✔
+   docker.env     ✔
 
-> focus:
-   AI / Backend / Systems
-
-> status: ONLINE
+> status: STABLE
 ```
 
 ---
 
-## 🧠 INTERACTIVE MODULES
+## 🧠 INTERFACE MODULES
 
 <details>
-<summary>⚡ identity.log</summary>
+<summary>⚡ identity.interface</summary>
 
-```diff id="mpp2"
+```diff id="boss2"
 + EN:
-+ building scalable systems
-+ learning AI deeply
-+ shipping real products
++ designing scalable backend systems
++ diving deep into AI
++ building production-ready projects
 
 + RU:
-+ создаю масштабируемые системы
-+ изучаю AI глубоко
-+ делаю реальные проекты
++ проектирую backend системы
++ глубоко изучаю AI
++ делаю проекты уровня продакшена
 ```
 
 </details>
 
 <details>
-<summary>🧬 philosophy.sys</summary>
+<summary>🧬 system.philosophy</summary>
 
-```text id="mpp3"
-Code = Power
-Systems = Evolution
-Mindset = Weapon
+```text id="boss3"
+[ core principles ]
 
-> adapt or disappear
+code → creates systems
+systems → scale impact
+impact → defines value
+
+> evolve continuously
 ```
 
 </details>
 
 <details>
-<summary>⚙️ tech.visual</summary>
+<summary>⚙️ tech.matrix</summary>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,ts,nodejs,docker,html,css&theme=dark" />
@@ -146,12 +171,13 @@ Mindset = Weapon
 </details>
 
 <details>
-<summary>🧩 hidden.node (secret)</summary>
+<summary>🧩 hidden.protocol</summary>
 
-```text id="mpp4"
-if (you_read_this) {
-   you_are_the_type_of_dev;
-}
+```text id="boss4"
+access granted...
+
+real devs don't just code
+they build systems that think
 ```
 
 </details>
@@ -170,17 +196,18 @@ if (you_read_this) {
 
 <div align="center">
 
-<!-- 🔥 FOOTER GLOW -->
+<!-- ⚡ FINAL GLOW CORE -->
 
-<svg width="100%" height="100">
+<svg width="100%" height="120">
   <defs>
-    <linearGradient id="g" x1="0%" x2="100%">
+    <linearGradient id="finalGlow" x1="0%" x2="100%">
       <stop offset="0%" stop-color="#00F7FF"/>
       <stop offset="100%" stop-color="#000000"/>
     </linearGradient>
   </defs>
-  <rect width="100%" height="100" fill="url(#g)">
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+
+  <rect width="100%" height="120" fill="url(#finalGlow)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite"/>
   </rect>
 </svg>
 
